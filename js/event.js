@@ -35,3 +35,4 @@ var fireWeaponButton = new gameButton();
 fireWeaponButton.button = document.getElementById("fireWeapon");
 console.log(fireWeaponButton.button);
 fireWeaponButton.button.addEventListener("click", fireWeaponButton.fire);
+//A Comment
